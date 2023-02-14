@@ -2,7 +2,7 @@ import { Address } from "../../../components/Company";
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 export default {
-    title:'Address',
+    title:'Company/Address',
     component: Address
 } as ComponentMeta<typeof Address>;
 
@@ -13,4 +13,5 @@ export const Default = Template.bind({});
 Default.args = {
     address:"Direcc"
 };
+
                         
