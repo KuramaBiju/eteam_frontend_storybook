@@ -2,7 +2,7 @@ import { ErrorInputMessage } from "../../../components/Forms";
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 export default {
-    title:'ErrorInputMessage',
+    title:'Forms/ErrorInputMessage',
     component: ErrorInputMessage
 } as ComponentMeta<typeof ErrorInputMessage>;
 
