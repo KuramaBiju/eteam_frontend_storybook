@@ -2,7 +2,7 @@ import { Age } from "../../../components/Member";
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 export default {
-    title:'Age',
+    title:'Member/Age',
     component: Age
 } as ComponentMeta<typeof Age>;
 
