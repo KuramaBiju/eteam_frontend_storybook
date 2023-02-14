@@ -2,7 +2,7 @@ import { Web } from "../../../components/Company";
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 export default {
-    title:'Web',
+    title:'Company/Web',
     component: Web
 } as ComponentMeta<typeof Web>;
 
