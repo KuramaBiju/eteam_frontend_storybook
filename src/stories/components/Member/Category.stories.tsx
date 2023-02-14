@@ -2,7 +2,7 @@ import { Category } from "../../../components/Member";
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 export default {
-    title:'Category',
+    title:'Member/Category',
     component: Category
 } as ComponentMeta<typeof Category>;
 
