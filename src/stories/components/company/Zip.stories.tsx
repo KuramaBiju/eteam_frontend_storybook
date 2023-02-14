@@ -2,7 +2,7 @@ import { Zip } from "../../../components/Company";
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 export default {
-    title:'Zip',
+    title:'Company/Zip',
     component: Zip
 } as ComponentMeta<typeof Zip>;
 
