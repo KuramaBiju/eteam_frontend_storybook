@@ -2,7 +2,7 @@ import { Description } from "../../../components/Member";
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 export default {
-    title:'Description',
+    title:'Member/Description',
     component: Description
 } as ComponentMeta<typeof Description>;
 
