@@ -2,7 +2,7 @@ import { Select } from "../../../components/Forms";
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 export default {
-    title:'Select',
+    title:'Forms/Select',
     component: Select
 } as ComponentMeta<typeof Select>;
 
