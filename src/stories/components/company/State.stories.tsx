@@ -2,7 +2,7 @@ import { State } from "../../../components/Company";
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 export default {
-    title:'State',
+    title:'Company/State',
     component: State
 } as ComponentMeta<typeof State>;
 
