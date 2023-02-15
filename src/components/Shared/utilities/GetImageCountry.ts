@@ -3,7 +3,7 @@ import { Country } from "../interfaces";
 let countries: Country = {
     Argentina: {
       name: "Argentina",
-      image: "http://127.0.0.1:5173/src/assets/flags/argentina-flag.png",
+      image: "http://127.0.0.1:6006/src/assets/flags/argentina-flag.png",
     },
   };
   
